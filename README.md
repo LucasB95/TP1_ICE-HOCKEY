@@ -1,4 +1,5 @@
 #Ice Hockey
+
 -El juego trata de intentar meter la pelota en lado superior de la pantalla mientras defiende la pc con su paleta
 
 -Cada vez que la pc nos anota un punto hay un sonido que nos avisa
