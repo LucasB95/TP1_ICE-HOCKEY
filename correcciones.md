@@ -7,3 +7,4 @@
 - `drawThingPlayer()` y `drawThingPC()` son la misma función con otro nombre, podrían ser una sola y usarse dos veces recibiendo parámetros diferentes. Incluso `drawThingBall()` también.
 
 - **Es imposible ganar porque el valor de X de la pelota y de la PC es siempre el mismo**.
+  - No puedo aprobar un juego en el que no se puede ganar, está sin terminar 😔
